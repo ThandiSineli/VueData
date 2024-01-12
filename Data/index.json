@@ -40,31 +40,31 @@
         {
             "id": 1,
             "name": "HTML",
-            "imgUrl": "https://drive.google.com/uc?export=download&id=1SmQ7eUrisk-dNAlTIFNslVen_FS1xy_F",
-            "description": "Intermediate "
+            "imgUrl": "https://iili.io/JYJbz3G.png",
+            "description": "Beginner "
         },
         {
             "id": 2,
             "name": "CSS",
-            "imgUrl": "https://drive.google.com/uc?export=download&id=1vs2zssCbg9O0bxnbSJCs9nSRaW0KVRDM",
-            "description": "intermediate "
+            "imgUrl": "https://iili.io/JYJDDhP.png",
+            "description": "Beginner "
         },
         {
             "id": 3,
             "name": "Bootstrap",
-            "imgUrl": "https://drive.google.com/uc?export=download&id=1qqcX-hgTgGepAgSM2whoVtrxrlimymSX",
-            "description": "Intermediate"
+            "imgUrl": "https://iili.io/JYJbwn1.png",
+            "description": "Beginner"
         },
         {
             "id": 4,
             "name": "Javascript",
-            "imgUrl": "https://drive.google.com/uc?export=download&id=1KoDrfgvHIWUKvX7HPvBSbCNEASOuVNQt",
+            "imgUrl": "https://iili.io/JYJDYrJ.png",
             "description": " Beginner"
         },
         {
             "id": 5,
             "name": "Vuejs",
-            "imgUrl": "https://drive.google.com/uc?export=download&id=1Xj6v8tBQRQhIgwWEF58mKqPq6wJe5LC-",
+            "imgUrl": "https://iili.io/JYJtmgf.png",
             "description": "Beginner"
         }
     ],
