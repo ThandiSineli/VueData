@@ -72,15 +72,15 @@
   "projects": [
    {
             "id": 1,
-            "name": "E-commerce Website(Cart)",
-            "imgUrl": "https://drive.google.com/uc?export=download&id=1wpz9sl2xwRhSyp42iBDwkA",
+            "name": " Clothing E-commerce JS",
+            "imgUrl": "https://iili.io/JYJYS3X.jpgg",
             "github": "https://github.com/ThandiSineli/jsEOMP.git",
             "netlify": "https://magical-speculoos-76e2f9.netlify.app/"
         },
         {
             "id": 2,
             "name": "Portfolio",
-            "imgUrl": "https://drive.google.com/uc?export=download&id=1aJ0Awj6uxe7dBleGX68OeX2eZLm2-SL8",
+            "imgUrl": "https://iili.io/JYJYE41.webp",
             "github": "https://github.com/ThandiSineli/portfolioProject.git",
             "netlify": "https://silly-llama-755164.netlify.app/"
         },
@@ -94,21 +94,21 @@
         {
             "id": 4,
             "name": "TODO-List",
-            "imgUrl": "https://drive.google.com/uc?export=download&id=1I8FUAoBkRJXFhwS9CL-mKz",
+            "imgUrl": "https://iili.io/JYJ7qiP.jpg",
             "github": "https://github.com/ThandiSineli/toDoList.git",
             "netlify": "https://graceful-cucurucho-db8273.netlify.app/"
         },
         {
             "id": 5,
             "name": "Cloned Netflix",
-            "imgUrl": "ttps://drive.google.com/uc?export=download&id=199Ta2IR4amzC2fHZiCFRuokNWdZBcDZ-",
+            "imgUrl": "https://iili.io/JYJ7c0X.jpg",
             "github": "https://github.com/ThandiSineli/netflixClone.git",
             "netlify": "https://bejewelled-macaron-fcc30e.netlify.app/index2"
         },
         {
             "id": 6,
-            "name": "E-commerce Website",
-            "imgUrl": "https://drive.google.com/uc?export=download&id=1FNk-GEMlChYDIOcYV6_tUQsCcFxDtifH",
+            "name": " Sneaker E-commerce Website",
+            "imgUrl": "https://iili.io/JYJ7v5b.jpg",
             "github": "https://github.com/ThandiSineli/e-commerceChallenge.git",
             "netlify": "https://harmonious-moxie-066b12.netlify.app/"
         }
